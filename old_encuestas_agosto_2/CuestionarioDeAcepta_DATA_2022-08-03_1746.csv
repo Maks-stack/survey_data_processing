@@ -1,0 +1,34 @@
+﻿record_id;redcap_survey_identifier;encuesta_aceptabilidad_del_portal_mejora_la_memori_timestamp;preg_1_estado_salud;preg_2_no_tengo_problemas;preg_3_realizar_actividades;preg_4_puedo_manejar;preg_5_perdido_fisico;preg_6_perdido_cognitivos;preg_7_no_preocupaciones;preg_8_probar_cosas_nuevas;preg_9_cambiar_costumbres;preg_10_tomar_iniciativa;preg_11_controlar_vida;preg_12_evitar_internet;preg_13_req_asistencia;preg_14_servicio_medico;preg_15_usar_movil_int;preg_16_tecnologia;preg_17_posibilidades_tecnologia;preg_18_experiencia_tecnologia;preg_19_tecnologia_para_salud;preg_20_esperanza_tecnologia;preg_21_perjudicarme_tecnologia;preg_22_malos_fines_tecnologia;preg_23_esfuerzo_tecnologia;preg_24_facilidad_tecnologia;preg_25_aprender_tecnologia;preg_26_no_esfuerzo_tecnologia;preg_27_complicada_tecnologia;preg_28_interesante_tecnologia;preg_29_errores_tecnologia;preg_30_nervioso_tecnologia;preg_31_privacidad_tecnologia;preg_32_datos_seguros;preg_33_medicos_tradicionales;preg_34_estado_de_salud;preg_35_informar_estado;preg_36_informar_cambios;preg_37_mantener_actividad;preg_38_mejorar_salud;preg_39_sin_fallos;preg_39_incomodo;preg_40_carga_en_vida;preg_41_facilidad_de_uso;preg_42_facilidad_de_aprendizaje;preg_43_instrucciones_claras;preg_44_compartir_datos;preg_45_acceso_atencion;preg_46_actividad_regular;preg_47_mejorar_estado_salud;preg_48_otros_beneficios;preg_49_importante_para_mi;preg_50_conexion_internet;preg_51_si_me_recomiendan;preg_52_si_medico_recomienda;encuesta_aceptabilidad_del_portal_mejora_la_memori_complete
+1;;"[not completed]";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0
+2;;"[not completed]";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0
+3;;"[not completed]";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0
+4;;"2022-03-29 12:40:53";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2
+5;;"2022-04-06 09:57:44";3;5;5;4;4;4;2;2;2;3;3;1;4;5;5;5;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2
+6;CPDC9233;"2022-05-23 14:16:13";5;5;5;5;4;4;1;5;4;4;5;1;5;4;5;5;5;5;5;2;5;4;4;5;5;5;5;5;5;2;4;5;4;4;4;4;5;4;4;5;1;4;4;5;5;5;5;4;"MAS COMODO PARA NO TENER QUE DESPLAZARTE";5;5;5;5;2
+7;CPDC7421;"2022-05-23 14:19:41";3;4;3;3;3;3;1;5;4;5;4;5;5;5;4;3;3;3;4;4;5;5;4;3;3;3;3;4;4;2;5;5;2;3;4;4;5;4;3;3;1;5;5;5;4;3;3;3;"Puede ser en todo caso un estímulo para intentar progresar en el combate contra el deterioro cognitivo que sufro";4;5;5;5;2
+8;CPDC5538;"2022-05-23 14:21:10";4;4;4;4;3;3;3;4;4;5;5;5;5;3;4;4;4;4;5;5;5;5;5;5;5;5;5;5;5;2;5;5;5;5;5;5;5;5;4;4;2;5;5;5;5;4;5;5;"Mantenerme ocupada diariamente ";4;5;5;5;2
+9;CPDC6233;"2022-05-23 14:26:18";3;5;5;3;2;1;3;5;5;5;5;3;5;2;5;2;1;3;5;5;5;5;5;3;3;3;3;5;5;1;5;5;5;4;4;5;5;5;4;5;1;5;5;5;5;5;5;5;"la salud y bienestar para el entorno";4;5;5;5;2
+10;CPDC3302;"2022-05-23 14:27:40";3;3;4;3;3;4;4;3;3;4;4;5;5;2;4;2;2;2;3;4;5;5;3;4;4;4;4;3;4;2;4;3;3;3;3;3;4;3;3;3;3;3;4;4;3;3;3;3;"no  considero  en principio otros, ";4;3;3;4;2
+11;CPDC9685;"2022-05-23 14:26:54";3;1;5;3;1;2;3;5;2;3;3;5;1;4;5;1;1;1;4;5;5;5;3;4;4;3;3;5;1;3;5;5;5;1;1;3;5;1;4;5;1;5;5;5;4;1;5;1;"RSTAR  OCUPDA";5;5;5;5;2
+12;CPDC9089;"2022-05-23 14:33:02";1;5;5;5;5;2;5;5;5;5;5;5;1;5;5;1;1;1;5;5;5;5;3;1;3;2;1;5;5;5;5;5;5;5;5;5;5;5;5;2;4;5;5;5;5;5;5;5;"no se";5;5;5;5;2
+13;CPDC2285;"2022-05-23 14:40:38";3;3;5;3;3;3;5;3;3;5;5;2;3;5;5;3;5;5;3;5;5;5;5;3;5;3;5;5;3;4;3;5;4;5;5;5;5;5;4;3;1;5;5;5;5;5;5;5;"NO SE";5;5;5;5;2
+14;CPDC3104;"2022-05-23 14:47:32";5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;1;1;1;5;5;5;5;5;5;3;5;5;5;3;3;5;5;5;5;5;5;5;5;5;5;1;5;5;5;5;5;5;5;"mejorar la memoria";5;5;5;5;2
+15;CPDC4913;"2022-05-23 14:44:27";4;5;5;5;5;3;3;4;4;4;4;3;5;4;5;4;4;5;4;5;5;5;5;5;5;5;5;5;5;1;4;4;4;4;5;5;4;4;4;5;1;5;4;5;5;4;5;4;"Ayuda a una valoración individual de los participantes sin influir las opiniones de otros participantes";4;2;5;5;2
+16;CPDC1346;"2022-05-23 15:01:28";4;3;5;2;1;3;3;3;3;1;4;1;5;5;5;1;1;3;5;5;5;1;4;5;5;3;3;5;5;1;5;5;5;5;5;5;5;5;3;5;1;5;5;5;5;5;5;5;"considero seque esta tecnologia sera buena para mi salud mental ";5;4;5;5;2
+17;CPDC2947;"2022-05-23 17:17:54";5;5;5;5;3;4;4;5;4;5;5;1;5;5;5;5;5;5;5;5;5;1;5;5;5;1;5;5;4;1;3;5;5;5;5;5;5;5;3;5;1;5;5;5;5;5;5;5;"Me resulta rápida y muy útil";5;5;3;5;2
+18;CPDC2378;"2022-05-25 11:41:00";3;5;4;4;3;4;3;3;2;2;5;5;3;5;4;3;2;2;3;2;5;5;4;3;3;1;3;3;1;3;2;4;3;2;5;5;5;5;3;3;1;5;5;5;5;4;5;5;"facilidad de comunicacion";3;5;3;5;2
+19;CPDC7284;"2022-05-30 12:58:53";4;5;5;4;4;5;5;5;5;5;5;5;5;5;5;4;4;4;5;5;5;5;5;5;5;5;5;5;5;1;1;1;1;4;5;5;5;5;5;5;1;5;5;5;5;5;5;5;no;5;5;5;5;2
+20;CPDC4969;"2022-05-31 11:35:46";5;5;5;5;4;4;2;4;2;4;5;1;5;5;5;5;5;4;5;5;5;5;5;5;5;5;5;5;3;1;5;5;3;5;5;5;5;5;4;5;1;5;5;5;4;3;5;5;"Me dará seguridad en mi misma si resuelvo bien los ejercicios";5;5;5;5;2
+21;CPDC2690;"2022-05-31 12:10:20";4;5;5;4;4;3;1;5;3;3;5;4;3;1;3;2;3;5;5;5;5;5;3;3;3;3;3;5;1;3;5;5;5;5;5;5;5;5;4;5;1;3;5;5;5;5;5;5;"mejorar las relaciones sociales";5;5;5;5;2
+22;CPDC7662;"2022-05-31 12:12:33";3;5;5;5;3;1;2;2;3;5;5;5;1;5;3;1;1;5;5;5;5;5;2;3;2;2;2;5;4;5;5;5;5;5;5;5;5;5;5;4;3;5;5;5;5;5;5;5;no;5;5;5;5;2
+23;CPDC3417;"2022-05-31 13:13:36";1;5;5;5;5;2;5;5;1;5;5;5;5;5;1;5;3;5;5;5;5;5;5;3;3;3;3;3;1;3;5;5;5;5;5;5;5;5;5;5;1;5;5;5;5;5;5;5;"mejoraría mi salud";5;5;3;3;2
+24;CPDC7585;"2022-06-01 20:37:32";1;1;2;4;1;3;5;4;4;5;4;2;2;5;5;4;4;4;5;5;5;5;5;5;5;5;5;5;5;1;5;5;4;5;5;5;5;5;5;5;3;5;5;5;5;5;5;4;"Creo que están recogidos todos los beneficios ";5;5;5;5;2
+25;CPDC6689;"2022-06-03 11:08:33";5;5;5;5;4;4;4;4;4;5;4;5;5;3;5;4;4;3;3;3;3;4;4;4;4;4;4;4;3;3;3;3;2;2;2;2;4;3;2;3;3;3;3;5;3;3;4;3;supongo;2;5;3;2;2
+26;CPDC7990;"2022-06-05 19:11:02";5;5;5;4;5;3;3;5;4;5;5;4;5;5;5;5;2;2;4;5;5;5;4;4;4;4;4;4;3;1;5;5;3;4;5;5;5;5;4;4;1;5;5;5;5;5;4;4;"Hasta que no empiece a utilizarlo no lo puedo indicar nada.";5;5;5;5;2
+27;CPDC3605;"2022-06-06 12:11:42";3;2;2;2;2;2;3;5;5;5;5;3;3;5;2;4;4;4;2;5;1;2;2;5;5;5;5;5;5;3;5;5;5;5;5;5;5;5;4;4;1;3;3;3;4;5;5;5;"Mejorar memoria y concentración";5;5;5;5;2
+28;CPDC1396;"2022-06-06 12:15:30";3;3;5;5;3;3;5;5;3;5;5;1;1;3;5;2;3;3;5;5;5;5;5;5;5;5;5;5;5;1;5;5;3;5;5;5;5;5;3;5;1;5;5;5;5;3;5;4;"sin comentarios";5;5;4;5;2
+29;CPDC3836;"2022-06-06 12:17:07";4;5;5;4;4;3;3;4;4;5;4;3;4;3;5;3;3;3;4;4;5;5;4;5;5;5;5;5;4;1;4;4;4;4;4;4;5;4;4;4;3;5;4;5;3;4;4;4;"Frenar la decadencia cognitiva";4;5;3;4;2
+30;CPDC9197;"2022-06-06 12:22:52";4;5;5;5;3;4;4;3;3;4;4;1;5;4;5;2;1;4;4;5;5;5;5;5;5;4;5;4;4;1;4;4;4;4;4;4;4;4;3;5;1;5;5;5;4;4;4;4;nada;4;5;5;5;2
+31;CPDC6267;"2022-06-08 04:04:57";4;4;4;3;4;3;2;3;2;5;4;2;5;5;3;4;2;3;3;4;4;4;2;2;3;3;3;4;3;3;5;3;2;3;3;3;3;4;3;3;3;3;3;5;4;3;4;3;"Aprender a utilizar la tecnologia ";4;5;4;4;2
+32;CPDC4649;"2022-06-08 12:19:06";2;1;1;1;2;2;4;2;4;1;1;3;2;2;2;4;4;4;2;2;1;1;2;3;2;1;1;3;4;4;1;2;2;2;2;2;1;1;1;1;2;1;1;1;1;2;1;1;"no lo sé";1;2;2;1;2
+33;CPDC1698;"2022-06-08 12:27:16";5;5;5;3;3;3;1;5;5;3;3;1;5;3;5;1;1;3;3;5;5;5;5;5;5;5;5;5;5;1;5;5;5;5;5;5;5;5;4;5;1;5;5;5;3;3;5;5;"CONEXION CON CENTRO DE INTERES";5;5;5;5;2
